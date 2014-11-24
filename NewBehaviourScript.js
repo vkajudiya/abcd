@@ -1,4 +1,6 @@
-﻿#pragma strict
+﻿
+//http://answers.unity3d.com/questions/538199/how-to-create-a-2d-parabolic-trajectory-prediction.html
+#pragma strict
  
  var force = 4.0;
  var samples = 15;
